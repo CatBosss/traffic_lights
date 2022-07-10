@@ -1,0 +1,15 @@
+
+为枚举交通信号灯实现一个 trait，trait里包含一个返回时间的方法，不同的灯持续的时间不同；
+
+create git repostitory
+
+open windows powershell
+cargo new traffic_lights
+
+write code for \traffic_lights\src\main.rs
+
+cd traffic_lights
+cargo run
+
+write some words, just testing...
+
